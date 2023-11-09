@@ -40,6 +40,12 @@ h2 {
     padding-left: 208px;
 }
 
+.links {
+    display: flex;
+    list-style-type: none;
+    
+}
+
 button,
 h5 {
     background-color: #3882F6;
