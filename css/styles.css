@@ -5,6 +5,10 @@ body {
     margin: 0;
     }
 
+.container-one {
+    height: 535px;
+}
+
 .container-one,
 .footer {
     background-color: #1F2937
