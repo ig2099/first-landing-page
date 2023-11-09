@@ -1,6 +1,10 @@
 body {
     font-family: 'Roboto', sans-serif;
-}
+    background-color: black;
+    padding: 0 232px 0 233px;
+    margin: 0;
+    }
+
 .container-one,
 .footer {
     background-color: #1F2937
