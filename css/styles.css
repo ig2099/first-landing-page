@@ -27,6 +27,10 @@ h2 {
     color: #F9FAF8;
 }
 
+.awesome {
+    max-width: 460px;
+}
+
 .awesome p, 
 .links  {
     font-size: 18px;
