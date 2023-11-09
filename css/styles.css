@@ -33,6 +33,10 @@ h2 {
     max-width: 460px;
 }
 
+.awesome p, {
+    margin: 0;
+}
+
 .awesome p, 
 .links  {
     font-size: 18px;
