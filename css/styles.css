@@ -81,6 +81,11 @@ h2 {
     justify-content: center;
     margin-top: -4px;
     padding-top: 115px;
+    min-width: 521px;
+    min-height: 121px;
+    background-color: #ffffff57;
+    color: white;
+    font-size: 18px;
 }
 
 button,
