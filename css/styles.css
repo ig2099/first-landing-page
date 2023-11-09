@@ -48,6 +48,13 @@ h2 {
     gap: 25px;
 }
 
+.under-header {  
+    display: flex;
+    justify-content: center;
+    margin-top: 123px;
+    gap: 42px;  
+}
+
 button,
 h5 {
     background-color: #3882F6;
