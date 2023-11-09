@@ -76,6 +76,13 @@ h2 {
     font-family: 'Roboto';
 }
 
+.replace-image {
+    display: flex;
+    justify-content: center;
+    margin-top: -4px;
+    padding-top: 115px;
+}
+
 button,
 h5 {
     background-color: #3882F6;
