@@ -102,6 +102,12 @@ h5 {
     padding: 50px 0px;
 }
 
+.all-images {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
 .container-two {
     background-color: white;
     height: 500px;
