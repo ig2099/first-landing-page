@@ -116,6 +116,8 @@ h5 {
 .blue-border-empty {
     border: solid #3882f6 4px;
     border-radius: 15px;
+    padding: 80px 0px;
+    margin-bottom: 9px;
 }
 
 .container-two {
