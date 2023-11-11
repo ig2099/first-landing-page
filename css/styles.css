@@ -120,6 +120,11 @@ h5 {
     margin-bottom: 9px;
 }
 
+.text {
+    font-size: 18px;
+    color: #4f4f4f;
+}
+
 .container-two {
     background-color: white;
     height: 500px;
