@@ -113,6 +113,11 @@ h5 {
     text-align: center;
 }
 
+.blue-border-empty {
+    border: solid #3882f6 4px;
+    border-radius: 15px;
+}
+
 .container-two {
     background-color: white;
     height: 500px;
