@@ -132,6 +132,10 @@ h5 {
 
 .container-three {
     background-color:#E5E7EB;
+    height: 430px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .quote {
