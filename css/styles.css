@@ -148,3 +148,10 @@ h5 {
     font-weight: 300;
     color: #1F2937;
 }
+
+.quote-author {
+    text-align: end;
+    padding-right: 34px;
+    font-weight: 700;
+    font-size: 24px
+}
