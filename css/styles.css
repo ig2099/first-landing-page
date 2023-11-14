@@ -159,5 +159,7 @@ h5 {
 .container-four {
     background-color: white;
     height: 350px;
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
