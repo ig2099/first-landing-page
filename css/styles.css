@@ -172,3 +172,7 @@ h5 {
     padding: 50px 122px;
     background-color: #3882F6;
 }
+
+.blue-container .button {
+    color: white;
+}
