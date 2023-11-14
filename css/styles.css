@@ -163,3 +163,9 @@ h5 {
     justify-content: center;
     align-items: center;
 }
+
+.blue-container {
+    display: flex;
+    gap: 158px;
+    align-items: center;
+}
