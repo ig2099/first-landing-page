@@ -180,4 +180,6 @@ h5 {
     font-size: 18px;
     border: 2px solid white;
     border-radius: 6px;
+    padding: 0px 32px;
+    height: 36px;
 }
