@@ -175,4 +175,7 @@ h5 {
 
 .blue-container .button {
     color: white;
+    font-weight: 600;
+    font-family: 'Roboto';
+    font-size: 18px;
 }
