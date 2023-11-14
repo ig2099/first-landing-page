@@ -168,4 +168,6 @@ h5 {
     display: flex;
     gap: 158px;
     align-items: center;
+    border-radius: 8px;
+    padding: 50px 122px;
 }
