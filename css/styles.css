@@ -178,4 +178,6 @@ h5 {
     font-weight: 600;
     font-family: 'Roboto';
     font-size: 18px;
+    border: 2px solid white;
+    border-radius: 6px;
 }
