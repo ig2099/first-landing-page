@@ -195,3 +195,9 @@ h5 {
     margin: 0;
     font-size: 18px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
