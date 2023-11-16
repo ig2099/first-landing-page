@@ -203,3 +203,8 @@ h5 {
     color: white;
     height: 100px;
 }
+
+.copyright {
+    font-size: 18px;
+    font-weight: 400;
+}
