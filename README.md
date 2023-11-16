@@ -1,2 +1,3 @@
 # first-landing-page
 The Odin Project/Flexbox/Project: Landing Page
+Just finished the landing page. I learned to connect what I learned from HTMl, CSS and flexbox lessons so far. I also searched up how to apply certain styling by googling it, such as border radius. In this landing page, I tried my best to recreate the model and get it to as close as possible. In my viewport of the model image, it defaulted the entire image onto the screen. However when I clicked on the image, it zoomed in to a certain degree, still having that black border thats on its left and right side. This is the position of the image I tried to model/recreate from.
